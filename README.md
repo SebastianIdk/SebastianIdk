@@ -2,7 +2,7 @@
 
 # 🌟 Sebastian
 
-### 🖥️ Junior Developer × 📱 Mobile App Builder × ⚙️ Backend Automation Enthusiast × 🌐 DevOps Junior
+### 🖥️ Junior Developer × 📱 Mobile App Builder × ⚙️ Backend Automation Enthusiast × 🌐 Junior Cloud Engineer
 
 *Genius that cannot be explained is more a problem than a virtue*
 
